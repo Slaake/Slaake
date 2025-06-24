@@ -1,18 +1,42 @@
-<h1 align="center">Hello, I'm Slaake</h1>
-<h3 align="center">A Systems Engineer who fixes stuff in the day and breaks stuff at night.</h3>
+<h1 align="center">Hello, my name is Shirl 👨‍💻</h1>
+<div align="center"><h2 id="profilesummary">💼 Profile Summary</h2>
+<p>I'm a computer systems engineer with a passion for building resilient, scalable, and secure computing environments. I specialize in endpoint management and compliance to ensure workstation computing is seamless, efficient and most of all, unintrusive.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=slaake&label=Profile%20views&color=0e75b6&style=flat" alt="slaake" /> </p>
+<h2 id="whatido">🧠 What I Do</h2>
+<p>Design and optimize end-to-end computer systems, from architecture to deployment
+Integrate operating systems, networking, and storage into cohesive, high-performance environments
+Automate infrastructure and streamline system operations using modern DevOps practices
+Ensure system reliability, security, and maintainability across the full lifecycle</p>
 
-- 🔭 I’m currently working on **a bachelor's in computer science**
+<h2 id="currentfocus">🔧 Current Focus</h2>
+<p>Exploring systems engineering, systems design, optimization and automations</p>
+<p>Working on obtaining by Bachelor's in Computer Science with a minor in Information Technology</p>
+<p>Fixing stuff in the day and breaking things at night</p>
 
-- 👯 I’m looking to collaborate on **open source projects**
+<h2 id="toolstechnologies">🛠️ Tools & Technologies</h2>
+<p><strong>Operating Systems:</strong> Linux (Ubuntu, Arch, NixOS), Windows Server, Windows OS, macOS</p>
+<p><strong>Languages & Scripting:</strong> Python, Java, C++, Bash, PowerShell</p>
+<p><strong>Virtualization & Cloud:</strong> VMware, Hyper-V, AWS, Azure</p>
+<p><strong>Automation & Monitoring:</strong> Teraform, Azure Bicep</p>
+<p><strong>Version Control & Collaboration:</strong> Git, GitHub, Jira, Confluence</p>
 
-- 👨‍💻 All of my projects are available right here on Github!
+<h2 id="areasofinterest">🔍 Areas of Interest</h2>
+<p>Systems integration and performance tuning</p>
+<p>Infrastructure as code and CI/CD pipelines</p>
+<p>Cybersecurity and system hardening</p>
+<p>Distributed systems and cloud-native architecture</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=slaake&show_icons=true&locale=en&layout=compact" alt="slaake" /></p>
-
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h2 align="center">🛠 Tech Stack</h2>
+<div align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">&nbsp;
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff">&nbsp;
+<img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff">&nbsp;
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff">&nbsp;
+<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white">&nbsp;</div>
+<h2 align="center">🛠 My Stats</h2>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slaake&layout=compact&theme=dark" alt="Top Languages Card"></div>
+<h2 align="center">📫 Connect with me</h2>
+<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/shirllakeway" target="_blank">Shirl Lakeway</a></p>
