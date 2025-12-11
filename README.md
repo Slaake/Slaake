@@ -1,6 +1,6 @@
-<h1 align="center">Hello, my name is Shirl 👨‍💻</h1>
+<h1 align="center">Hello, my name is Shirl </h1>
 <div align="center"><h2 id="profilesummary"> Profile Summary</h2>
-<p>I'm a computer systems engineer with a passion for building resilient, scalable, and secure computing environments. I specialize in endpoint management and compliance to ensure workstation computing is seamless, efficient and most of all, unintrusive.</p>
+<p>I'm a systems engineer with a passion for automation and process improvement. I am regarded as a subject matter expert in endpoint management, the Atlassian platform and cloud engineering. I am working on a bachelors to help reinforce my skills and knowledge and prepare myself for future opportunities</p>
 
 <h2 id="whatido"> What I Do</h2>
 <p>Design and optimize end-to-end computer systems, from architecture to deployment
@@ -8,7 +8,7 @@ Integrate operating systems, networking, and storage into cohesive, high-perform
 Automate infrastructure and streamline system operations using modern DevOps practices
 Ensure system reliability, security, and maintainability across the full lifecycle</p>
 
-<h2 id="currentfocus">🔧 Current Focus</h2>
+<h2 id="currentfocus"> Current Focus</h2>
 <p>Exploring systems engineering, systems design, optimization and automations</p>
 <p>Working on obtaining by Bachelor's in Computer Science with a minor in Information Technology</p>
 <p>Fixing stuff in the day and breaking things at night</p>
