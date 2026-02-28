@@ -1,12 +1,11 @@
 <h1 align="center">Hello, my name is Shirl </h1>
 <div align="center"><h2 id="profilesummary"> Profile Summary</h2>
-<p>I'm a systems engineer with a passion for automation and process improvement. I am regarded as a subject matter expert in endpoint management, the Atlassian platform and cloud engineering. I am working on a bachelors to help reinforce my skills and knowledge and prepare myself for future opportunities</p>
+<p>I'm a systems engineer with a passion for automation and process improvement. I am a subject matter expert in endpoint management, the Atlassian platform and cloud engineering. I am working on a bachelors of Computer Science with a minor in Information Technology to help reinforce my skills and knowledge and prepare myself for future opportunities</p>
 
 <h2 id="whatido"> What I Do</h2>
 <p>Design and optimize end-to-end computer systems, from architecture to deployment
-Integrate operating systems, networking, and storage into cohesive, high-performance environments
-Automate infrastructure and streamline system operations using modern DevOps practices
-Ensure system reliability, security, and maintainability across the full lifecycle</p>
+integrate operating systems, networking, and storage into high-performance environments,
+automate infrastructure and streamline system operations using modern DevOps practices.</p>
 
 <h2 id="currentfocus"> Current Focus</h2>
 <p>Exploring systems engineering, systems design, optimization and automations</p>
